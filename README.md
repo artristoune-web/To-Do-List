@@ -16,7 +16,7 @@ Cette application de To-Do List vous permet de gérer vos tâches quotidiennes d
 ```git clone https://github.com/yoshiTorisutan-web/to-do-list.git```
 
 2. Assurez-vous d'avoir Node.js installé.
-3. 
+
 4. Installez les dépendances en exécutant la commande suivante :
 ```npm install```
 
